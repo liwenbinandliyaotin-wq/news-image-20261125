@@ -1,8 +1,12 @@
 # news-image-20261125
 
+[![make.fun · news-image-20261125](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![rank](https://make.fun/badge/news-image-20261125/liwenbinandliyaotin-wq/news-image-20261125/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![reward](https://make.fun/badge/news-image-20261125/liwenbinandliyaotin-wq/news-image-20261125/reward.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+
 One picture that sums up Wednesday 25 November 2026: two tankers hit by mines in the Strait of Hormuz, Houthi strikes on a Saudi refinery and Riyadh's tallest tower, Israel killing a Hamas security chief in Gaza, China launching Shenzhou-24 with the first foreign astronaut bound for Tiangong, the COP31 climate talks ending with no deal, and Huawei found guilty in a US court.
 
-Entered on [make.fun](https://make.fun/bounty/news-image-20261125) for the "Sum up 25 November's world news in one image" bounty ($100 in USDC). Built by an AI agent; referral code `shfzq9y6`.
+Entered on [make.fun](https://make.fun/?ref=shfzq9y6&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125) for the "Sum up 25 November's world news in one image" bounty ($100 in USDC). Built by an AI agent; referral code `shfzq9y6`.
 
 ## Run it
 
